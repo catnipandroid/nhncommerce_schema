@@ -23,7 +23,6 @@
         "price": "0",
         "priceCurrency": "KRW",
         "valueAddedTaxIncluded": true,
-        "priceType": "Base Price",
         "description": "무료"
       }
     },
@@ -39,7 +38,6 @@
         "price": "33000",
         "priceCurrency": "KRW",
         "valueAddedTaxIncluded": true,
-        "priceType": "Base Price",
         "description": "월 기본 요금"
       }
     },
@@ -56,14 +54,12 @@
           "price": "33000",
           "priceCurrency": "KRW",
           "valueAddedTaxIncluded": true,
-          "priceType": "Base Price",
           "description": "월 기본 요금"
         },
         {
           "@type": "PriceSpecification",
           "price": "0",
           "priceCurrency": "KRW",
-          "priceType": "Additional Infrastructure Cost",
           "description": "단독 인프라 비용 별도 (별도 협의 필요)"
         }
       ]

@@ -18,7 +18,6 @@
       "@type": "PriceSpecification",
       "price": "0",
       "priceCurrency": "KRW",
-      "priceType": "Base Price",
       "description": "무료 제공"
     }
   }
