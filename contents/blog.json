@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/blog-post-url"
+  },
+  "headline": "블로그 글 제목",
+  "description": "이 블로그 게시물의 요약 또는 설명",
+  "image": "https://example.com/image.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "작성자 이름",
+    "url": "https://example.com/author-profile"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "블로그 이름",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-14",
+  "dateModified": "2025-03-14"
+}
