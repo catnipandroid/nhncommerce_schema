@@ -120,5 +120,6 @@
     "@type": "Organization",
     "name": "NHN Commerce",
     "url": "https://enterprise.nhn-commerce.com/"
-  }
+  },
+  "startDate": "2025-01-02"
 }
