@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "고도몰 ",
+  "image": "https://img.cdn-nhncommerce.com/godomall_promotion/20241227/PC/PC_notebook_.png",
+  "description": "깔끔한 UX/UI를 갖춘 최신 쇼핑몰 디자인 스킨입니다.",
+  "brand": {
+    "@type": "Brand",
+    "name": "고도몰 쇼핑몰 디자인"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "0",
+    "availability": "https://schema.org/InStock",
+    "url": "https://godomall.nhn-commerce.com/freeSkin",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "description": "무료 제공"
+    }
+  }
+}

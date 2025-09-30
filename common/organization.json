@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "NHN 커머스",
+  "url": "https://www.nhn-commerce.com",
+  "logo": "https://img.cdn-nhncommerce.com/homepage/logo/logo_commerce.png",
+  "description": "NHN 커머스는 온라인 쇼핑몰 창업을 위한 SaaS 솔루션을 제공합니다.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+82-2-1688-7662",
+    "contactType": "customer service",
+    "areaServed": "KR",
+    "availableLanguage": ["Korean"]
+  },
+  "sameAs": [
+    "https://blog.naver.com/nhncommerce",
+    "https://www.instagram.com/nhncommerce",
+    "https://channel.nhn-commerce.com",
+    "https://www.linkedin.com/company/77698597",
+    "https://www.facebook.com/nhncommercekorea",
+    "https://www.youtube.com/channel/UCkFFJXK8m2OgNE8PTbOOfqw"
+  ]
+}

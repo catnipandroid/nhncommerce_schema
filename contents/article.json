@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/article-url"
+  },
+  "headline": "ㅇㅇㅇㅇㅇㅇ",
+  "description": "ㅇㅇㅇㅇ",
+  "image": ["https://example.com/images/article-thumbnail.jpg"],
+  "author": {
+    "@type": "Person",
+    "name": "고도몰",
+    "url": "https://example.com/author/kim-marketer"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "고도몰은 000하고",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/images/logo.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "datePublished": "2025-03-14T08:00:00+09:00",
+  "dateModified": "2025-03-14T12:00:00+09:00",
+  "articleBody": "주로 짧은 인트로 문장 정도를 삽입",
+  "wordCount": 1250,
+  "keywords": ["메타 키워드를 따라서 키워드 삽입?"],
+  "inLanguage": "ko",
+  "isAccessibleForFree": "True",
+  "hasPart": [
+    {
+      "@type": "WebPageElement",
+      "isAccessibleForFree": "True",
+      "cssSelector": ".related-articles"
+    }
+  ]
+}
+

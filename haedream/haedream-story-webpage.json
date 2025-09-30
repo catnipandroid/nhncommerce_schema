@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "해드림 고객 사례",
+  "url": "https://haedream.nhn-commerce.com/story",
+  "about": {
+    "@type": "Service",
+    "name": "해드림 - 1:1 쇼핑몰 제작 서비스",
+    "provider": {
+      "@type": "Organization",
+      "name": "NHN Commerce",
+      "url": "https://www.nhn-commerce.com"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "name": "소니코리아 고객 사례",
+      "author": {
+        "@type": "Organization",
+        "name": "소니코리아"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "reviewBody": "해드림 매니저님께서 무상 A/S 진행 및 멤버십 제도 기능까지 개발 가능하다는 것을 확인해 주셨고, 관련 프로세스까지 친절히 안내해 주셨어요. 저희가 몰랐던 부분에 대해서도 여러 가지 형태로 먼저 제안을 주셔서 좋았어요."
+    },
+    {
+      "@type": "Review",
+      "name": "포켓몬 스토어 고객 사례",
+      "author": {
+        "@type": "Organization",
+        "name": "포켓몬 스토어"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "reviewBody": "해드림은 전담 매니저분이 적극적으로 나서 지원해 주는 서비스다 보니 부담을 덜 수 있었어요. 자사 특성상 내부 개발자가 없어 소통이 어려울 수 있었는데 해드림을 통해 수월하게 진행할 수 있었어요."
+    },
+    {
+      "@type": "Review",
+      "name": "만블링 고객 사례",
+      "author": {
+        "@type": "Organization",
+        "name": "만블링"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "reviewBody": "해드림 서비스를 통해 상품 옵션 설정 및 오픈 기념 할인 쿠폰 발행, 기획전 진행에 도움을 받으며 쉽고 안정적으로 자사몰을 오픈할 수 있었어요."
+    },
+    {
+      "@type": "Review",
+      "name": "어바웃미 고객 사례",
+      "author": {
+        "@type": "Organization",
+        "name": "어바웃미"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "reviewBody": "플랫폼 사용 경험이 없거나 쇼핑몰을 처음 제작하시는 분들에게 추천해 드리고 싶어요. 전문 지식이 없는 분들이라도 단계별로 진행하다보니 효율적인 제작이 가능할 것 같아요."
+    },
+    {
+      "@type": "Review",
+      "name": "베스트온 고객 사례",
+      "author": {
+        "@type": "Organization",
+        "name": "베스트온"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "reviewBody": "전문가를 배정해 주고 빠른 소통이 가능한 점이 가장 좋았어요. 해드림 매니저분이 질문에 빠르게 피드백 주시고, 전문가의 입장에서 조언을 아끼지 않으셨거든요."
+    },
+    {
+      "@type": "Review",
+      "name": "비엔비엔 고객 사례",
+      "author": {
+        "@type": "Organization",
+        "name": "비엔비엔"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "reviewBody": "해드림 매니저님이 1:1로 쇼핑몰 이전 진행 상황과 이슈 해결을 서포트해 주셔서 편하게 이전 작업을 진행할 수 있었어요."
+    }
+  ]
+}

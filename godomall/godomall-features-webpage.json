@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "고도몰 주요 기능",
+  "url": "https://godomall.nhn-commerce.com/features",
+  "about": {
+    "@type": "SoftwareApplication",
+    "name": "고도몰",
+    "applicationCategory": "EcommercePlatform",
+    "operatingSystem": "Web",
+    "url": "https://godomall.nhn-commerce.com/spec"
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "고도몰 베이직 (무료)",
+      "priceCurrency": "KRW",
+      "price": "0",
+      "availability": "https://schema.org/InStock",
+      "url": "https://godomall.nhn-commerce.com/spec",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "무료"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "고도몰 프로 (유료)",
+      "priceCurrency": "KRW",
+      "price": "33000",
+      "availability": "https://schema.org/InStock",
+      "url": "https://godomall.nhn-commerce.com/spec",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "33000",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "월 기본 요금"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "고도몰 비즈니스 (유료)",
+      "priceCurrency": "KRW",
+      "price": "33000",
+      "availability": "https://schema.org/InStock",
+      "url": "https://godomall.nhn-commerce.com/spec",
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "price": "33000",
+          "priceCurrency": "KRW",
+          "valueAddedTaxIncluded": true,
+          "description": "월 기본 요금"
+        },
+        {
+          "@type": "PriceSpecification",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "description": "단독 인프라 비용 별도 (별도 협의 필요)"
+        }
+      ]
+    }
+  ]
+}

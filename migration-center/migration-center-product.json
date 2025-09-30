@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "NHN 커머스 쇼핑몰 이전 서비스",
+  "image": "https://inside.nhn.com/ko_/content/2024/202410100936551.jpg",
+  "description": "NHN 커머스로 쉽게 이전하세요! 무료 이전 비용 지원, 데이터 검수 및 솔루션 이전, 쇼핑몰 오픈 테스트까지 100% 지원하는 쇼핑몰 이전 서비스입니다.",
+  "brand": {
+    "@type": "Brand",
+    "name": "NHN Commerce"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "0",
+    "availability": "https://schema.org/InStock",
+    "url": "https://migration.nhn-commerce.com",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "valueAddedTaxIncluded": true,
+      "description": "무료 쇼핑몰 이전 제공"
+    }
+  },
+  "isRelatedTo": {
+    "@type": "Service",
+    "name": "NHN 커머스 쇼핑몰 이전 서비스",
+    "provider": {
+      "@type": "Organization",
+      "name": "NHN Commerce",
+      "url": "https://migration.nhn-commerce.com"
+    },
+    "serviceType": "쇼핑몰 데이터 이전 및 운영 최적화",
+    "areaServed": {
+      "@type": "Country",
+      "name": "대한민국"
+    }
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "무료 쇼핑몰 이전",
+      "value": "쇼핑몰 이전 및 데이터 마이그레이션 서비스 제공"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "전자결제(PG) 가입비 무료",
+      "value": "쇼핑몰 운영 필수 PG 가입비 100% 지원"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "SMS 50만 포인트 제공",
+      "value": "고객 알림 메시지 발송을 위한 SMS 50만 포인트 제공"
+    }
+  ]
+}

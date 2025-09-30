@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "NHN 커머스 기업형 이커머스 플랫폼",
+  "image": "https://cdn.builder.io/api/v1/image/assets%2Fa73e01a1c6a34697ab20d49c30aab093%2Fe6ab7b47ff51445c9890956ea13dee2d",
+  "description": "기업형 온라인 비즈니스의 안정적인 성장을 돕는 NHN 커머스의 프리미엄 이커머스 플랫폼 서비스입니다. 주요 기능으로는 1:1 전문가 지원, 빠른 구축 속도, 실시간 모니터링 서비스, 확장 가능한 클라우드 SaaS 환경 등이 포함됩니다.",
+  "brand": {
+    "@type": "Brand",
+    "name": "NHN Commerce"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "0",
+    "availability": "https://schema.org/InStock",
+    "url": "https://enterprise.nhn-commerce.com/register",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "valueAddedTaxIncluded": true,
+      "description": "무료 상담 및 맞춤 견적 제공"
+    }
+  },
+  "isRelatedTo": {
+    "@type": "Service",
+    "name": "Shop by Enterprise",
+    "provider": {
+      "@type": "Organization",
+      "name": "NHN Commerce",
+      "url": "https://enterprise.nhn-commerce.com"
+    },
+    "serviceType": "기업형 맞춤 쇼핑몰 구축 및 관리 서비스",
+    "areaServed": {
+      "@type": "Country",
+      "name": "대한민국"
+    }
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "전문 인력 지원",
+      "value": "1:1 전문가 매칭 및 운영 지원"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "구축 속도",
+      "value": "SI 대비 2배 빠른 쇼핑몰 구축"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "모니터링",
+      "value": "실시간 트래픽 및 보안 모니터링"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "확장성",
+      "value": "유연한 클라우드 SaaS 환경 제공"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "리소스",
+      "value": "업계 최대 사양 (스토리지, 트래픽, API 등)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "비용 절감",
+      "value": "낮은 유지 비용과 높은 수익성"
+    }
+  ]
+}

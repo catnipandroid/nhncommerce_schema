@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "고도몰 환승 이벤트 - 최대 1000만원 혜택",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "https://migration.nhn-commerce.com/event"
+  },
+  "description": "고도몰로 환승하면 누구나 최대 1000만 원 혜택을 받을 수 있는 이벤트! 선착순 100명에게 쇼핑몰 환승 지원금을 포함한 다양한 혜택을 제공합니다.",
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "맞춤 디자인 및 기능 개발 지원",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "availability": "https://schema.org/InStock",
+      "url": "https://migration.nhn-commerce.com/event",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "NHN 커머스 인증 전문 에이전시에게 최대 1000만원 상당의 맞춤 디자인 및 기능 개발 지원"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "SMS 포인트 50만원 제공",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "availability": "https://schema.org/InStock",
+      "url": "https://migration.nhn-commerce.com/event",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "고객 안내 필수 SMS 포인트 50만 원 지원"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "구글 애널리틱스(GA) 설치 무료",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "availability": "https://schema.org/InStock",
+      "url": "https://migration.nhn-commerce.com/event",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "쇼핑몰 유입 데이터 분석을 위한 구글 애널리틱스(GA) 무료 설치"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "고도몰/샵바이 1년 사용료 무료",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "availability": "https://schema.org/InStock",
+      "url": "https://migration.nhn-commerce.com/event",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "고도몰 또는 샵바이 솔루션 1년 무료 사용 혜택 제공"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "해드림 컨설팅 1:1 맞춤 지원",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "availability": "https://schema.org/InStock",
+      "url": "https://migration.nhn-commerce.com/event",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "쇼핑몰 제작 전담 1:1 맞춤 지원 서비스"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "라이브 클래스 무료 교육",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "availability": "https://schema.org/InStock",
+      "url": "https://migration.nhn-commerce.com/event",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "쇼핑몰 운영 및 마케팅 교육을 위한 A to Z 라이브 클래스 무료 지원"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "전자결제(PG) 가입비 무료",
+      "price": "0",
+      "priceCurrency": "KRW",
+      "availability": "https://schema.org/InStock",
+      "url": "https://migration.nhn-commerce.com/event",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "valueAddedTaxIncluded": true,
+        "description": "전자결제(PG) 가입비 22만원 전액 지원"
+      }
+    }
+  ],
+  "organizer": {
+    "@type": "Organization",
+    "name": "NHN Commerce",
+    "url": "https://enterprise.nhn-commerce.com/"
+  },
+  "startDate": "2025-01-02"
+}

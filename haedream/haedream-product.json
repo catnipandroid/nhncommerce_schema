@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "해드림 - 1:1 쇼핑몰 제작 서비스",
+  "image": "https://img.cdn-nhncommerce.com/haedream/main/main-img.png",
+  "description": "해드림은 4,000개 이상의 프로젝트 경험을 보유한 전문가들이 1:1로 지원하는 맞춤형 쇼핑몰 제작 및 운영 서비스입니다.",
+  "brand": {
+    "@type": "Brand",
+    "name": "해드림"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "NHN Commerce",
+    "url": "https://www.nhn-commerce.com"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "330000",
+    "availability": "https://schema.org/InStock",
+    "url": "https://haedream.nhn-commerce.com",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "price": "330000",
+      "priceCurrency": "KRW",
+      "valueAddedTaxIncluded": true,
+      "description": "전문 파트너사 매칭 후 합리적인 비용으로 진행될 수 있도록 견적과 계약을 도와드립니다."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{해당 블로그 콘텐츠의 URL}}"
+  },
+  "headline": "{{컨텐츠 제목}}",
+  "description": "{{컨텐츠 디스크립션}}",
+  "image": ["{{이미지 주소}}"],
+  "inLanguage": "ko-KR",
+  "datePublished": "2024-01-05T08:00:00+08:00",
+  "dateModified": "2024-02-05T09:20:00+08:00",
+  "author": {
+    "@type": "Organization",
+    "name": "NHN 커머스",
+    "url": "https://www.nhn-commerce.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "NHN 커머스",
+    "url": "https://www.nhn-commerce.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://img.cdn-nhncommerce.com/homepage/logo/logo_commerce.png",
+      "width": 246,
+      "height": 60 
+    }
+  }
+}
